@@ -25,3 +25,10 @@ Which Channel is contributing maximum to the sales?
 Highest selling category?
 
 Percentage of Total Orders delivered
+DashBoard Interaction <a href=" https://github.com/Nikshipthav/DataProject/blob/main/Screenshot%202025-04-19%20212140.png">View Dashboard</a>
+## Process
+Verify data for any missing values and anomalies, and sort out the same.
+Made sure data is consistent and clean with respect to data type, data format and values used.
+Created pivot tables according to the questions asked.
+Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+## DashBoard 
